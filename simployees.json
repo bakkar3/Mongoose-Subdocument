@@ -1,0 +1,10 @@
+[
+	{
+	    "firstName": "John",
+	    "lastName": "Smith",
+	    "files": {
+		"contract": "contract_js.doc",
+		"cv": "cv_js.pdf"
+	    }
+	}
+    ]
